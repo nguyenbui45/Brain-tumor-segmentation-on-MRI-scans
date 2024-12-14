@@ -8,17 +8,17 @@ To know more, check the original paper [here](https://arxiv.org/abs/1906.03720)
 Since the samples within this dataset are not plentiful, I've used the Unet model as the first choice to deal with tumor segmentation task with/without the support of state-of-art encoder
 
 <p align='center'>
-<img src="images/predict_Enet0.png" alt="Diagram" width=800>
+<img src="images/cropped_predict_Enet1.png" alt="Diagram" width=800>
 </p>
 
 <p align='center'>
-<img src="images/predict_Enet2.png" alt="Diagram" width=800>
+<img src="images/cropped_predict_Enet2.png" alt="Diagram" width=800>
 </p>
 
 <p align='center'>
-<img src="images/predict_Enet3.png" alt="Diagram" width=800>
+<img src="images/cropped_predict_Enet3.png" alt="Diagram" width=800>
 </p>
 
 <p align='center'>
-<img src="images/predict_Enet4.png" alt="Diagram" width=800>
+<img src="images/cropped_predict_Enet4.png" alt="Diagram" width=800>
 </p>
